@@ -8,12 +8,12 @@ To save this repo:
 
 1. FORK and clone this repository
 ```
-git clone https://github.com/[yourusername]/studygroups-070620pt.git
+git clone https://github.com/[yourusername]/studygroups-092820ft.git
 ```
 
 2. Add THIS `/yishuen/` version as the upstream (to pull future changes)
 ```
-git remote add upstream https://github.com/yishuen/studygroups-070620pt.git
+git remote add upstream https://github.com/yishuen/studygroups-092820ft.git
 ```
 
 Whenever you want to get updated notes:
